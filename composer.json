@@ -33,6 +33,9 @@
   "require": {
     "metamodels/core": "^2.1",
     "metamodels/bundle_nontranslated": "^2.1",
-    "metamodels/bundle_filter": "^2.1"
+    "metamodels/bundle_filter": "^2.1",
+    "metamodels/attribute_decimal": "^2.1",
+    "metamodels/attribute_numeric": "^2.1",
+    "metamodels/attribute_timestamp": "^2.1"
   }
 }
