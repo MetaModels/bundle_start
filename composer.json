@@ -8,13 +8,13 @@
     "metapackage"
   ],
   "type": "metapackage",
-  "homepage": "http://now.metamodel.me/",
+  "homepage": "https://now.metamodel.me/",
   "license": "LGPL-3.0-or-later",
   "authors": [
     {
       "name": "Christian Schiffler",
       "email": "c.schiffler@cyberspectrum.de",
-      "homepage": "http://www.cyberspectrum.de",
+      "homepage": "https://www.cyberspectrum.de",
       "role": "Developer"
     },
     {
@@ -26,16 +26,16 @@
   "support": {
     "email": "mail@metamodel.me",
     "issues": "https://github.com/MetaModels/bundle_all/issues",
-    "wiki": "http://de.contaowiki.org/MetaModels",
+    "wiki": "https://de.contaowiki.org/MetaModels",
     "irc": "irc://irc.freenode.org/contao.mm",
     "source": "https://github.com/MetaModels/bundle_all"
   },
   "require": {
-    "metamodels/core": "^2.1",
-    "metamodels/bundle_nontranslated": "^2.1",
-    "metamodels/bundle_filter": "^2.1",
-    "metamodels/attribute_decimal": "^2.1",
-    "metamodels/attribute_numeric": "^2.1",
-    "metamodels/attribute_timestamp": "^2.1"
+    "metamodels/core": "^2.2",
+    "metamodels/bundle_nontranslated": "^2.2",
+    "metamodels/bundle_filter": "^2.2",
+    "metamodels/attribute_decimal": "^2.2",
+    "metamodels/attribute_numeric": "^2.2",
+    "metamodels/attribute_timestamp": "^2.2"
   }
 }
