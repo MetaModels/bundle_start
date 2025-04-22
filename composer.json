@@ -27,15 +27,14 @@
     "email": "mail@metamodel.me",
     "issues": "https://github.com/MetaModels/bundle_all/issues",
     "wiki": "https://de.contaowiki.org/MetaModels",
-    "irc": "irc://irc.freenode.org/contao.mm",
     "source": "https://github.com/MetaModels/bundle_all"
   },
   "require": {
-    "metamodels/core": "^2.2",
-    "metamodels/bundle_nontranslated": "^2.2",
-    "metamodels/bundle_filter": "^2.2",
-    "metamodels/attribute_decimal": "^2.2",
-    "metamodels/attribute_numeric": "^2.2",
-    "metamodels/attribute_timestamp": "^2.2"
+    "metamodels/core": "^2.3",
+    "metamodels/bundle_nontranslated": "^2.3",
+    "metamodels/bundle_filter": "^2.3",
+    "metamodels/attribute_decimal": "^2.3",
+    "metamodels/attribute_numeric": "^2.3",
+    "metamodels/attribute_timestamp": "^2.3"
   }
 }
